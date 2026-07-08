@@ -10,5 +10,5 @@ Column
 'Review Text'	=>  Textliches Feedback von Kundinnen und Kunden zu ihrem Einkaufserlebnis und zur Produktqualität.
                 Mit leistungsstarken Embedding-API-Services wird die Bewertungen verarbeitet, aussagekräftige Erkenntnisse und                         wird die Ergebnisse präsentiert.
 
-
+mit CHROMADB
 EMBEDDING_MODEL = "text-embedding-3-small"
