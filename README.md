@@ -4,6 +4,8 @@ Bewertungen analysieren mit Text-Embeddings und Python, zugrunde liegende Themen
 Die Daten:
 
 womens_clothing_e-commerce_reviews.csv
+
 Column	      Description
+
 'Review Text'	Textliches Feedback von Kundinnen und Kunden zu ihrem Einkaufserlebnis und zur Produktqualität.
               Mit leistungsstarken Embedding-API-Services die Bewertungen verarbeiten, aussagekräftige Erkenntnisse und Ergebnisse                   präsentieren.
